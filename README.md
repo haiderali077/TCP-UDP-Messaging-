@@ -1,4 +1,4 @@
-# 🌐 TCP/UDP Network Messaging System
+# TCP/UDP Network Messaging System
 
 [![Java](https://img.shields.io/badge/Java-18+-orange.svg)](https://www.oracle.com/java/)
 [![Network Programming](https://img.shields.io/badge/Networking-TCP%20%7C%20UDP-blue.svg)]()
@@ -8,7 +8,7 @@ A comprehensive network programming project demonstrating advanced socket progra
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 This project showcases a complete instant messaging (IM) system built from scratch using low-level socket programming. It demonstrates proficiency in network protocols, concurrent programming, client-server architecture, and real-time communication systems.
 
@@ -23,7 +23,7 @@ This project showcases a complete instant messaging (IM) system built from scrat
 
 ---
 
-## 🏗️ Architecture & Design
+## Architecture & Design
 
 ### System Components
 
@@ -64,7 +64,7 @@ This project showcases a complete instant messaging (IM) system built from scrat
 
 ---
 
-## 💻 Technical Skills Demonstrated
+## Technical Skills Demonstrated
 
 ### Network Programming
 - **Socket Programming**: Low-level TCP and UDP socket implementation
@@ -86,7 +86,7 @@ This project showcases a complete instant messaging (IM) system built from scrat
 
 ---
 
-## 🚀 Quick Start Guide
+## Quick Start Guide
 
 ### Prerequisites
 
@@ -113,7 +113,7 @@ This project showcases a complete instant messaging (IM) system built from scrat
 
 ---
 
-## 📖 Usage Examples
+## Usage Examples
 
 ### Running the Instant Messaging System
 
@@ -234,7 +234,7 @@ Hello UDP!
 
 ---
 
-## 🧪 Testing Scenarios
+## Testing Scenarios
 
 ### Scenario 1: Two-User Chat Session
 1. Register two users (alice, bob) on separate clients
@@ -261,7 +261,7 @@ Hello UDP!
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 TCP-UDP-Messaging-/
@@ -296,7 +296,7 @@ TCP-UDP-Messaging-/
 
 ---
 
-## 🔧 Configuration
+## Configuration
 
 ### Modifying Ports and Addresses
 
@@ -331,7 +331,7 @@ To run multiple clients on the same machine:
 
 ---
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 This project demonstrates understanding of:
 
@@ -362,7 +362,7 @@ This project demonstrates understanding of:
 
 ---
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -400,7 +400,7 @@ Solution: Ensure different TCPMessagePort for each client
 
 ---
 
-## 🔬 Advanced Topics Explored
+## Advanced Topics Explored
 
 ### Why Both TCP and UDP?
 
